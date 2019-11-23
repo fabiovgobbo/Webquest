@@ -9,7 +9,7 @@ all: $(HTML)
 	sed "/<\!--++-->/r tmp" "template.html" | sed "s/<t>/$*/" > $@
 
 clean:
-	rm tmp
+	rm -rf tmp
 
 git: clean
 	git add *
@@ -17,4 +17,4 @@ git: clean
 	git push
 
 purge: clean
-	rm $(HTML)
+	rm -rf $(HTML)
