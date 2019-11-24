@@ -37,3 +37,22 @@ um breve texto deve ser escrito resumindo seu uso e contendo alguns exemplos.
 1. Multiplique a matriz _C_ encontrada no exercício anterior pelo número 3.
 
 1. Multiplique a matriz _A_ pela matriz _B_ do exercício 4.
+
+1. Calcule x e y, sabendo que a matriz abaixo é uma matriz triangular superior
+
+    <table style="border-left:1px solid black; border-right:1px solid black; text-align:center;"><tr>
+    <td>1</td>
+    <td>7</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4x-y</td>
+    <td>6</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>y+2</td>
+    <td>9</td>
+  </tr>
+</table>
