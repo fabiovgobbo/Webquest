@@ -16,10 +16,10 @@ um breve texto deve ser escrito resumindo seu uso e contendo alguns exemplos.
 
     <table style="border-left:1px solid black; border-right:1px solid
     black;text-align:center;"> <tr> <td>3</td> <td>4</td> <td>5</td> <td>6</td>
-    <td></td> </tr> <tr> <td>15</td> <td>16</td> <td>17</td> <td>18</td>
-    <td></td> </tr> <tr> <td>27</td> <td>28</td> <td>29</td> <td>30</td>
-    <td></td> </tr> <tr> <td>39</td> <td>40</td> <td>41</td> <td>42</td>
-    <td></td> </tr> </table>
+    </tr> <tr> <td>15</td> <td>16</td> <td>17</td> <td>18</td>
+    </tr> <tr> <td>27</td> <td>28</td> <td>29</td> <td>30</td>
+    </tr> <tr> <td>39</td> <td>40</td> <td>41</td> <td>42</td>
+    </tr> </table>
 
     a. Qual é o elemento _a_<sub>2 4</sub> dessa matriz?
     a. Escreva todos os elementos da 1 coluna.
