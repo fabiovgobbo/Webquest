@@ -11,9 +11,11 @@ all: $(HTML)
 clean:
 	rm -rf tmp
 
-git: clean
+commit: clean
 	git add *
 	git commit
+
+push:
 	git push
 
 purge: clean
