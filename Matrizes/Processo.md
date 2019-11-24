@@ -8,3 +8,5 @@ apresentadas.
 O texto a ser produzido deve conter uma introdução, explicando superficialmente
 a área pesquisada. Depois há de ser escrito qual papel as matrizes atuam nesse
 contexto e exemplificar.
+
+Ao final, o texto deve ter entre 15 e 60 linhas, sem considerar o cabeçalho.
