@@ -5,7 +5,7 @@ MRKD=$(HTML:.html=.md)
 all: $(HTML)
 
 %.html: %.md template.html
-	markdown $< > tmp
+	pandoc $< > tmp
 	sed "/<\!--++-->/r tmp" "template.html" | sed "s/<t>/$*/" > $@
 
 clean:

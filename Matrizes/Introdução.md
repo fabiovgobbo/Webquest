@@ -1,4 +1,3 @@
-
 ## Introdução
 
 Coleções de números organizados em tabelas ordenadas são conhecidos como
