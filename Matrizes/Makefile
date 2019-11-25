@@ -2,7 +2,7 @@
 HTML=Introdução.html Tarefa.html Processo.html  Avaliação.html Conclusão.html
 MRKD=$(HTML:.html=.md)
 
-all: $(HTML)
+all: $(HTML) $(PDF)
 
 %.html: %.md template.html
 	pandoc $< > tmp
